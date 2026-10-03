@@ -15,7 +15,7 @@ TK LINK ACCESS-01 integra una tarjeta TECKIO dsPIC33FJ con una base de periféri
 | Carrier | TK LINK ACCESS-01, revisión A |
 | Tarjeta de desarrollo | TECKIO dsPIC33FJ Red Edition |
 | Microcontrolador compatible | **dsPIC33FJ32MC204** |
-| Variante EP | **No compatible con esta carrier debido al módulo de relé** |
+| Variante EP | **No compatible con esta carrier** |
 | Identificador del firmware | `TKLINK-ACCESS-01` |
 | Versión declarada en los fuentes | `0.3.1` |
 | Reloj configurado | Cristal de 8 MHz; FOSC = 80 MHz; FCY = 40 MHz |
